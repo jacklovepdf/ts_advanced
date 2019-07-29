@@ -1,0 +1,23 @@
+{
+  "name": "ts_advanced",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^3.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacklovepdf/ts_advanced.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacklovepdf/ts_advanced/issues"
+  },
+  "homepage": "https://github.com/jacklovepdf/ts_advanced#readme"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "react-webpack",
+  "version": "1.0.0",
+  "description": "ts react webpack",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --config ./build/webpack.config.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/react": "^16.8.23",
+    "@types/react-dom": "^16.8.5",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "webpack": "^4.37.0"
+  },
+  "devDependencies": {
+    "awesome-typescript-loader": "^5.2.1",
+    "source-map-loader": "^0.2.4",
+    "typescript": "^3.5.3",
+    "webpack-cli": "^3.3.6"
+  }
+}
